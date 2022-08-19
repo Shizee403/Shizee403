@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Adesinaayo Adeyeye</h1>
 <h3 align="center">A passionate data analyst and backend developer from Nigeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shizee403&label=Profile%20views&color=0e75b6&style=flat" alt="shizee403" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sina403&label=Profile%20views&color=0e75b6&style=flat" alt="sina403" /> </p>
 
 - 🔭 I’m currently working on **data analysis and web development**
 
